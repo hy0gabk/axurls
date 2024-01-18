@@ -1,0 +1,35 @@
+{
+  "name": "ArmourX: Survivors #878",
+  "description": "The Alien threat has thrown the world into chaos, but the 3,000 Survivors are not going down without a fight. They are an unrelenting force to be reckoned with, armed with state-of-the-art technology and a community as impenetrable as a fortress.",
+  "image": "https://creator-x.s3.amazonaws.com/metadata/padNUaV2GYwu1YAaNDHGpXNgxqbaY2F2ejZSHDm2tND/armourx:_survivors/878.png",
+  "attributes": [
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Phoenix Gold"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "L Scar Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Clenched"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Turquoise"
+    }
+  ]
+}
