@@ -10,7 +10,7 @@ curl_setopt_array($curl, [
   CURLOPT_TIMEOUT => 30,
   CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
   CURLOPT_CUSTOMREQUEST => "POST",
-  CURLOPT_POSTFIELDS => "{\n  \"applicationId\": \"5ef75b96-0ac3-4f66-b5c9-eb5cf10d2202\",\n  \"name\": \"\"\n}",
+  CURLOPT_POSTFIELDS => "{\n  \"applicationId\": \"5ef75b96-0ac3-4f66-b5c9-eb5cf10d2202\",\n  \"name\": \"trial\"\n}",
   CURLOPT_HTTPHEADER => [
     "Content-Type: application/json",
     "x-api-key: 31258db4-70f1-45b4-bfee-efbb121c4f1b"
